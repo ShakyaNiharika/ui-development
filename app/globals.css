@@ -10,6 +10,9 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --color-primary-teal: #4B8B9B;
+  --color-dark-teal: #3D6B6C;
+  --color-carousel-red: #D63D4A;
 }
 
 @media (prefers-color-scheme: dark) {
